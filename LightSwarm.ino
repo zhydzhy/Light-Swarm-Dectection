@@ -9,8 +9,8 @@ SwitchDoc Labs, August 2015
 #include <Wire.h>
 #undef DEBUG
 
-char ssid[] = "MATELIAS";  //  your network SSID (name)
-char pass[] = "772278Zhanght";       // your network password
+char ssid[] = "";  //  your network SSID (name)
+char pass[] = "";       // your network password
 
 
 #define VERSIONNUMBER 28
